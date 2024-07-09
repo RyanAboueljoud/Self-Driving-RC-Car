@@ -10,12 +10,10 @@
   <p align="center">
     <CpE 190-191 - Senior Design:<br /><b><h1>Self-Driving Remote Controlled Car</h1></b>
     <br />
-    <br />
     <a href="https://youtube.com/playlist?list=PLHFOvcVOvE2IlpS0oUwSvtJbdVLczmRdj">View Demo</a><br />
     <a href="https://youtube.com/playlist?list=PLHFOvcVOvE2IlpS0oUwSvtJbdVLczmRdj"><img src="https://img.youtube.com/vi/FD-_DXSRU5c/0.jpg" width="25%" height="25%"></a>
   </p>
 </div>
-<br />
 
 <!-- ABOUT THE PROJECT -->
 ## Overview
