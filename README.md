@@ -8,7 +8,7 @@
   <h1 align="center">Team 2</h1>
 
   <p align="center">
-    CpE 190-191 - Senior Design:<br /><b><h3>Self-Driving Remote Controlled Car</h3></b>
+    <CpE 190-191 - Senior Design:<br /><b><h1>Self-Driving Remote Controlled Car</h1></b>
     <br />
     <br />
     <a href="https://youtube.com/playlist?list=PLHFOvcVOvE2IlpS0oUwSvtJbdVLczmRdj">View Demo</a><br />
@@ -18,8 +18,25 @@
 <br />
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
-For the reason of safety, we utilized a scale model car design, no larger than a typical remote-controlled car to demonstrate our manual and full self-driving capabilities. Two different model car designs were used for testing and demonstration. The first design utilized a fused filament fabricator, structural parts could then be 3D printed and assembled. The second design was assembled using fabricated acrylic and prefabricated metal parts. The drive system on both cars uses a differential drive. The autonomous drive source code can be modified to support any vehicle of any size capable of wheeled locomotion. The core components of our self-driving car design consist of computer vision, object detection, distance sensing, a convolutional neural net and a single board computer capable of running Debian based Linux for CPU dependent tasks. 
+## Overview
+
+This project demonstrates the capabilities of a self-driving remote-controlled vehicle, scaled down for safety purposes to the size of a typical remote-controlled car. The vehicle leverages machine vision and a custom-built convolutional neural network (CNN) for autonomous navigation. Two distinct model designs were used for testing and demonstration purposes: one with 3D-printed structural components and the other with fabricated acrylic and prefabricated metal parts. Both designs employ a differential drive system utilizing wheel tracks.
+
+## Features and Capabilities
+
+- **Scale Model Design**: Utilized for safety, the project employs a small-scale model no larger than a typical remote-controlled car.
+- **Dual Model Configurations**: 
+  - **3D-Printed Design**: Structural components are created using fused filament fabrication, then assembled.
+  - **Fabricated Design**: Uses a combination of fabricated acrylic and prefabricated metal parts.
+- **Differential Drive System**: Both designs incorporate a differential drive system for maneuverability.
+- **Machine Vision**: The vehicle uses advanced computer vision techniques for lane detection.
+- **Custom Convolutional Neural Network**: A specially trained CNN powers the autonomous driving capabilities.
+- **Adaptable Autonomous Drive Source Code**: The source code is designed to be adaptable for any vehicle equipped with a differential drive system, regardless of size.
+- **Computing Platform**: A single-board computer running Debian-based Linux handles CPU-dependent tasks and interfaces with the machine vision system.
+
+## Summary
+
+The self-driving remote-controlled vehicle project showcases the integration of advanced technologies such as machine vision, CNNs, and 3D-printing to create a functional and adaptable autonomous vehicle. The project's dual design approach demonstrates flexibility in fabrication methods, while the adaptable source code ensures the system can be applied to various vehicle sizes. This project not only highlights the potential of scaled-down models for safe testing but also provides a robust platform for further exploration in autonomous vehicle technology. 
 <br />
 | Model 1 | Model 2 |
 | :----: |    :----:   |
